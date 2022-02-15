@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 3D Stability Theory. 3D Transition Mechanisms
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-13-aerodynamics-of-viscous-fluids-fall-2003/8a0c3adffd9d1a2a6768b8ab6beb9eac_lecture_36.pdf
+file: /media/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/8a0c3adffd9d1a2a6768b8ab6beb9eac_lecture_36.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_36.pdf
 uid: 8a0c3adf-fd9d-1a2a-6768-b8ab6beb9eac

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: TSL Coordinates. Boundary Conditions. Shear Layer Categories
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-13-aerodynamics-of-viscous-fluids-fall-2003/cc71ac459adbb02ac651586f19e3b438_lecture_8.pdf
+file: /media/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/cc71ac459adbb02ac651586f19e3b438_lecture_8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_8.pdf
 uid: cc71ac45-9adb-b02a-c651-586f19e3b438

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-13-aerodynamics-of-viscous-fluids-fall-2003/fde26fcf86f06d2a2e18908c89e6023e_problem_set_4.pdf
+file: /media/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/fde26fcf86f06d2a2e18908c89e6023e_problem_set_4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: problem_set_4.pdf
 uid: fde26fcf-86f0-6d2a-2e18-908c89e6023e

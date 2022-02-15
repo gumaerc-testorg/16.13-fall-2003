@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-13-aerodynamics-of-viscous-fluids-fall-2003/8dce70ab03e0b5a478dfb3d1cf8ff76d_correlations.pdf
+file: /media/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/8dce70ab03e0b5a478dfb3d1cf8ff76d_correlations.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: correlations.pdf
 uid: 8dce70ab-03e0-b5a4-78df-b3d1cf8ff76d

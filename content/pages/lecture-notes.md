@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 75d54fc3-032c-35b4-49de-966608dbca41
 ---
@@ -335,7 +338,7 @@ Boundary Conditions, Homogeneity, Solution Techniques. ([PDF]({{< baseurl >}}/re
 Transition Mechanisms. Transition Prediction: Local Correlations, Amplification Methods. ([PDF]({{< baseurl >}}/resources/lecture_23))
 {{< tdclose >}}
 {{< tdopen >}}
-en Method ([PDF]({{< baseurl >}}/resources/en_method))
+e{{< sup "n" >}} Method ([PDF]({{< baseurl >}}/resources/en_method))
 {{< tdclose >}}
 
 {{< trclose >}}

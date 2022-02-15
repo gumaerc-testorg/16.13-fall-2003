@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Integral Kinetic Energy Equation. Dissipation Methods
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-13-aerodynamics-of-viscous-fluids-fall-2003/ba649ea3e1a76f19d62384ab6ed49592_lecture_14.pdf
+file: /media/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/ba649ea3e1a76f19d62384ab6ed49592_lecture_14.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_14.pdf
 uid: ba649ea3-e1a7-6f19-d623-84ab6ed49592
