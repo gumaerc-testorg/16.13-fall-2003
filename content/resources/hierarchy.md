@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75d54fc3-032c-35b4-49de-966608dbca41
 resourcetype: Document
 title: hierarchy.pdf
 uid: cf50283f-0ca1-9138-daa4-670228b9d1f5

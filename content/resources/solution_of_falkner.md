@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75d54fc3-032c-35b4-49de-966608dbca41
 resourcetype: Document
 title: solution_of_falkner.pdf
 uid: dbb1469d-5bee-44fe-3d65-363cc7374914

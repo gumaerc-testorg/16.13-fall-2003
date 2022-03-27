@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75d54fc3-032c-35b4-49de-966608dbca41
 resourcetype: Document
 title: von_karman.pdf
 uid: 3dadce4b-b00a-8bb9-070b-c6551285121c

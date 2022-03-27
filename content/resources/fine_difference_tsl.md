@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75d54fc3-032c-35b4-49de-966608dbca41
 resourcetype: Document
 title: fine_difference_tsl.pdf
 uid: 74dff6d3-8e9f-aa93-bc22-af7fa189fa33

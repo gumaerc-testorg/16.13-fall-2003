@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75d54fc3-032c-35b4-49de-966608dbca41
 resourcetype: Document
 title: integral_thicknesses.pdf
 uid: dc6cf5c9-0f17-8aad-f3e6-fe67b77ec503
