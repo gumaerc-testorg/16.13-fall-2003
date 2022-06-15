@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/8dce70ab03e0b5a478dfb3d1cf8ff76d_correlations.pdf
+file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/8dce70ab03e0b5a478dfb3d1cf8ff76d_correlations.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
