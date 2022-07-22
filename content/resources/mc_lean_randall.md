@@ -5,6 +5,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/30fef655ecdb326e99
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

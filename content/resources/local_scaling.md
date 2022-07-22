@@ -5,6 +5,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/65620958bbdbc5804d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: local_scaling.pdf
 uid: 65620958-bbdb-c580-4d67-5aa0d35739d9
 ---
 Supporting file for Lecture 9.
-

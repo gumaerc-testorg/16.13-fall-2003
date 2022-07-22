@@ -5,6 +5,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/5eac2fb566788f1a18
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: displacement_effects.pdf
 uid: 5eac2fb5-6678-8f1a-1862-fa219ebbd6ac
 ---
 Supporting file for Lecture 18.
-

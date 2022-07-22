@@ -5,6 +5,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/a6195204cb048dfed5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_20.pdf
 uid: a6195204-cb04-8dfe-d5db-6b97018388d6
 ---
 Small-Perturbation Theory. Orr-Sommerfeld Equation
-

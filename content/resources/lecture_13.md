@@ -5,6 +5,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/c9fe37e9704669e7b9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_13.pdf
 uid: c9fe37e9-7046-69e7-b9df-0aa35be0f485
 ---
 Integral Methods. Integral Momentum Equation. Thwaites' Method
-

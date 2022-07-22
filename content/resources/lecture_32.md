@@ -5,6 +5,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/b55a5120de54145036
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_32.pdf
 uid: b55a5120-de54-1450-3675-674ef547ad59
 ---
 New Effects: Crossflow, Lateral Dilation, 3D Separation. Governing Equations
-

@@ -5,6 +5,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/3dadce4bb00a8bb907
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: von_karman.pdf
 uid: 3dadce4b-b00a-8bb9-070b-c6551285121c
 ---
 Supporting file for Lecture 12.
-

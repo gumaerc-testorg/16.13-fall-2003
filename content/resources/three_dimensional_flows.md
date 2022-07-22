@@ -5,6 +5,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/adc690028bb80e9490
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: three_dimensional_flows.pdf
 uid: adc69002-8bb8-0e94-90c9-0e6adc8ebc9d
 ---
 Supporting file for Lecture 33.
-

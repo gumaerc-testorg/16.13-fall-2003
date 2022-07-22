@@ -6,6 +6,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/daab081a0a501f1dad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_17.pdf
 uid: daab081a-0a50-1f1d-ad9c-fa95b84d33f0
 ---
 2D Interaction Models: Displacement Body, Transpiration. Form Drag, Stall Mechanisms
-

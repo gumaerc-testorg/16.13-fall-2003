@@ -5,6 +5,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/681485365518f01377
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_34.pdf
 uid: 68148536-5518-f013-77ef-1047efff11f7
 ---
 3D Characteristics, BC's. Quasi-3D: Constant-Crossflow Approximation
-

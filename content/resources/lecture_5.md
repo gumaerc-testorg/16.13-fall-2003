@@ -5,6 +5,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/4890953dda82e65026
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_5.pdf
 uid: 4890953d-da82-e650-2668-9f02f57d4ca8
 ---
 Navier-Stokes Equations. Physical Parameters. Dynamic Similarity
-

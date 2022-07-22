@@ -6,6 +6,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/5141e680772f9ea738
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_31_part_1.pdf
 uid: 5141e680-772f-9ea7-382f-604b5559fd69
 ---
 Definition and Implications of Compressibility. Special Solutions. Reynolds Analogy (continued)
-

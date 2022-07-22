@@ -5,6 +5,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/3049478ff360437d78
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_22.pdf
 uid: 3049478f-f360-437d-7883-3ee3bb156e01
 ---
 Boundary Conditions, Homogeneity, Solution Techniques
-

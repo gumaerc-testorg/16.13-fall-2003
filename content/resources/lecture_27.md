@@ -6,6 +6,7 @@ file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/4564a355343cc94c00
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_27.pdf
 uid: 4564a355-343c-c94c-0061-a6c1331a5a84
 ---
 Equilibrium BL's: Clauser Hypothesis. Dissipation Formulas and Integral Closure
-
