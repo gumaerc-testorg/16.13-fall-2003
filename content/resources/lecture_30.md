@@ -3,6 +3,7 @@ content_type: resource
 description: Definition and Implications of Compressibility. Special Solutions. Reynolds
   Analogy
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/62c2c6bddc2e692a6c4fc0ac912c02bf_lecture_30.pdf
+file_size: 109864
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

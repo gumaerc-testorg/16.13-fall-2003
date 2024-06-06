@@ -2,6 +2,7 @@
 content_type: resource
 description: Conservation of Mass. Conservation of Momentum. Stress Tensor
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/8ee58d2edbcddb34fc27b77919643bd0_lecture_3.pdf
+file_size: 118208
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
