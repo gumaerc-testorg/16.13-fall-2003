@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting file for Lecture 12.
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/9b6a8f2cf5282934e04788e39790500a_bl_methods.pdf
+file_size: 50009
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

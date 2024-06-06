@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/d006dde00b1e778656c95d6bd786b434_ps1_solution.pdf
+file_size: 61524
 file_type: application/pdf
 learning_resource_types:
 - Assignments

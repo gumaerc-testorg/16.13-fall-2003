@@ -3,6 +3,7 @@ content_type: resource
 description: 'Transition Mechanisms. Transition Prediction: Local Correlations, Amplification
   Methods'
 file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/38e672d381a65e4a7bb9e300369f9d48_lecture_23.pdf
+file_size: 272262
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
