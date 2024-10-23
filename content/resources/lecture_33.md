@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Coordinate Systems. Characteristics, BC's, and Well-Posedness
-file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/a209ae40d6e11b2c250619bd54b423d3_lecture_33.pdf
+file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/a209ae40d6e11b2c250619bd54b423d3_lecture_33.pdf
 file_size: 103898
 file_type: application/pdf
 learning_resource_types:

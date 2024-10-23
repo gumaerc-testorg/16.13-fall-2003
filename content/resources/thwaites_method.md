@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Lecture 12.
-file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/8b9c752e007430fba9d42241824d00b9_thwaites_method.pdf
+file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/8b9c752e007430fba9d42241824d00b9_thwaites_method.pdf
 file_size: 42782
 file_type: application/pdf
 learning_resource_types:
