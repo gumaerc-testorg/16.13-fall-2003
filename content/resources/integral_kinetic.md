@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Lecture 12.
-file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/6ae0cd60efa149a8f6db94ba5d5be36f_integral_kinetic.pdf
+file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/6ae0cd60efa149a8f6db94ba5d5be36f_integral_kinetic.pdf
 file_size: 54030
 file_type: application/pdf
 learning_resource_types:

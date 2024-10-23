@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dimensional Analysis. Dominant Balance and Viscous Flow Classification
-file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/298faece555198587bf5e3c55da2fa00_lecture_6.pdf
+file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/298faece555198587bf5e3c55da2fa00_lecture_6.pdf
 file_size: 129298
 file_type: application/pdf
 learning_resource_types:
