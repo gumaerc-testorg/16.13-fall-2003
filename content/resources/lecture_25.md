@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Turbulent BL Structure: Wake, Wall Layers. Inner, Outer Variables. Effects
   of Roughness'
-file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/fcf835c9fa2b4aba653d3f6752fd6aec_lecture_25.pdf
+file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/fcf835c9fa2b4aba653d3f6752fd6aec_lecture_25.pdf
 file_size: 99470
 file_type: application/pdf
 learning_resource_types:

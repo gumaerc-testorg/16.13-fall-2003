@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Lecture 9.
-file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/65620958bbdbc5804d675aa0d35739d9_local_scaling.pdf
+file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/65620958bbdbc5804d675aa0d35739d9_local_scaling.pdf
 file_size: 132209
 file_type: application/pdf
 learning_resource_types:
