@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Turbulence Modeling and Closure. Algebraic Models. Transport Models
-file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/b4cdcb8bf83541de8879a07747ad8fe2_lecture_29.pdf
+file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/b4cdcb8bf83541de8879a07747ad8fe2_lecture_29.pdf
 file_size: 121509
 file_type: application/pdf
 learning_resource_types:

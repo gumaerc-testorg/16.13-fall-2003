@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Viscosity. Newtonian Fluids. Vorticity and Circulation
-file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/99fd149b28167f802c610e3d2d889d63_lecture_4.pdf
+file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/99fd149b28167f802c610e3d2d889d63_lecture_4.pdf
 file_size: 334323
 file_type: application/pdf
 learning_resource_types:
