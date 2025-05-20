@@ -2,7 +2,7 @@
 content_type: resource
 description: '3D Characteristics, BC''s. Quasi-3D: Constant-Crossflow Approximation
   (continued)'
-file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/b150f89f45146c3801ba1bd800a692af_lecture_35.pdf
+file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/b150f89f45146c3801ba1bd800a692af_lecture_35.pdf
 file_size: 89435
 file_type: application/pdf
 learning_resource_types:

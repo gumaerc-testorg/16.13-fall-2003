@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reynolds Averaging. Prandtl's Analogy
-file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/ddc5eacd4cd0f54f0d745c08b246c5d1_lecture_24.pdf
+file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/ddc5eacd4cd0f54f0d745c08b246c5d1_lecture_24.pdf
 file_size: 116895
 file_type: application/pdf
 learning_resource_types:
