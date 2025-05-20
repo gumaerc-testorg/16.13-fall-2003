@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Finite Difference Methods. Newton-Raphson
-file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/f79baaf0d37d802377484ffaaf4ecad1_lecture_12.pdf
+file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/f79baaf0d37d802377484ffaaf4ecad1_lecture_12.pdf
 file_size: 184617
 file_type: application/pdf
 learning_resource_types:
