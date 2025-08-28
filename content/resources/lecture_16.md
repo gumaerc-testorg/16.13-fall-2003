@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Asymptotic Perturbation Theory - Higher-Order Effects
-file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/e1ace8e400d3137c4c1cbc5bfae0476e_lecture_16.pdf
+file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/e1ace8e400d3137c4c1cbc5bfae0476e_lecture_16.pdf
 file_size: 197327
 file_type: application/pdf
 learning_resource_types:
