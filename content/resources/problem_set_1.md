@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/dc3fdf6528a33ea78c4d188163bb5c29_problem_set_1.pdf
+file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/dc3fdf6528a33ea78c4d188163bb5c29_problem_set_1.pdf
 file_size: 44752
 file_type: application/pdf
 learning_resource_types:

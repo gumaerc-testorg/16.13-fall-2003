@@ -2,7 +2,7 @@
 content_type: resource
 description: '2D Interaction Models: Displacement Body, Transpiration. Form Drag,
   Stall Mechanisms'
-file: /courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/daab081a0a501f1dad9cfa95b84d33f0_lecture_17.pdf
+file: /ol-ocw-studio-app/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/daab081a0a501f1dad9cfa95b84d33f0_lecture_17.pdf
 file_size: 111783
 file_type: application/pdf
 learning_resource_types:
